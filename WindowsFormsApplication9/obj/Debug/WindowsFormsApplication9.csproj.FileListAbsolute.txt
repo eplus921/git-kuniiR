@@ -1,0 +1,12 @@
+c:\users\kunii risa\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+c:\users\kunii risa\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+c:\users\kunii risa\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+c:\users\kunii risa\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+c:\users\kunii risa\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+c:\users\kunii risa\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+c:\users\kunii risa\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+c:\users\kunii risa\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+c:\users\kunii risa\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+\\serverfile1\Common\ゼミ\2017\実装ゼミ\回帰\國井の回帰\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+\\serverfile1\Common\ゼミ\2017\実装ゼミ\回帰\國井の回帰\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+\\serverfile1\Common\ゼミ\2017\実装ゼミ\回帰\國井の回帰\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
