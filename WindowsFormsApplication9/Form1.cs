@@ -17,6 +17,10 @@ namespace WindowsFormsApplication9
         {
         public Form1()
             {
+
+
+
+
             InitializeComponent();
             double[] _X = new double[CONST.N];
             double[,] _designmatrix = new double[CONST.N, CONST.M];
